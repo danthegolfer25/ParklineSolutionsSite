@@ -1,4 +1,5 @@
 ## Welcome to Parkline Solutions
+### Better Data. Better Decisions.
 
 You can use the [editor on GitHub](https://github.com/danthegolfer25/ParklineSolutionsSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
