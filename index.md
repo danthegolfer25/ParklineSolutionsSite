@@ -1,37 +1,23 @@
 ## Welcome to Parkline Solutions
 ### Better Data. Better Decisions.
 
-You can use the [editor on GitHub](https://github.com/danthegolfer25/ParklineSolutionsSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Parkline Solutions is a data consultancy with proven ability to deliver short or long-term projects in the data engineering, data warehousing, and business intelligence space.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We strive to partner with clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
 
-### Markdown
+We specialize in the following data solutions:
+✔️ Data strategy advisory & technology selection/recommendation
+✔️ Building data warehouses using modern cloud platforms and technologies
+✔️ Creating and automating data pipelines & ETL processes
+✔️ Building highly intuitive, interactive dashboards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Examples of projects that we've performed for clients including:
+ - Commercial launch of new pharmaceutical
+ - Sales operations automation
+ - Salesforce CRM development, configuration and automation
+ - Inventory Planning
+ - Real Estate Market Analytics
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danthegolfer25/ParklineSolutionsSite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
