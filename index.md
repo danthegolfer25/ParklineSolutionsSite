@@ -21,4 +21,4 @@ Examples of projects that we've performed for clients including:
 
 ### Learn More
 
-Feel free tp contact us for more information on how we could help you out. We'd love to talk!
+Feel free to contact us for more information on how we could help you out. We'd love to talk!
