@@ -19,6 +19,6 @@ Examples of projects that we've performed for clients including:
  - Real Estate Market Analytics
 
 
-### Support or Contact
+### Learn More
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feel free tp contact us for more information on how we could help you out. We'd love to talk!
