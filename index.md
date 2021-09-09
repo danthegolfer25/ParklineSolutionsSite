@@ -1,7 +1,7 @@
 
 # Parkline Solutions
 
-## Welcome!
+### Welcome!
 
 Parkline Solutions is a data consultancy with proven ability to deliver short or long-term projects in the data engineering, data warehousing, and business intelligence space.
 
