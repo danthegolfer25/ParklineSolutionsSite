@@ -13,11 +13,11 @@ We specialize in the following data solutions:
  - Creating and automating data pipelines & ETL processes
  - Building highly intuitive, interactive dashboards
 
-We've applied our expertise to support our clients in a wide variety of commercial endeavors, enabling their businesses to operate more efficiently and be more well informed.
+We've applied our expertise to support our clients in a wide variety of commercial endeavors, enabling their businesses to operate more efficiently and make informed decisions.
  - Commercial launch of new pharmaceutical product after FDA approval
  - Sales operations automation and monitoring for high performing sales team of 100+ employees
  - Implementation of Quarterly Business Reviews
- - Inventory Planning, Supply Chain Analysis, Manufacturing 
+ - Inventory Planning, Supply Chain Analysis, Manufacturing KPI's
  - Real Estate Market Analytics 
 
 
