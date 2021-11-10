@@ -3,9 +3,9 @@
 
 ### Welcome!
 
-Parkline Solutions is a data consultancy with proven ability to deliver short or long-term projects in the data engineering, data warehousing, and business intelligence space.
+Parkline Solutions is a technical consultancy firm with proven ability to deliver short or long-term projects in the data engineering, data warehousing, and business intelligence space.
 
-We strive to partner with clients to deliver top-notch, scalable data solutions to provide immediate and lasting value. 
+We strive to partner with clients to deliver top-notch, scalable solutions to provide immediate and lasting value and we excel in understanding business problems and developing technical solutions address them.
 
 We specialize in the following data solutions:
  - Data strategy advisory & technology selection/recommendation
@@ -16,7 +16,7 @@ We specialize in the following data solutions:
 We've applied our expertise to support our clients in a wide variety of commercial endeavors, enabling their businesses to operate more efficiently and make informed decisions.
  - Commercial launch of new pharmaceutical product after FDA approval
  - Sales operations automation and monitoring for high performing sales team of 100+ employees
- - Implementation of Quarterly Business Reviews
+ - Implementation of customer facing Quarterly Business Reviews (QBR's)
  - Inventory Planning, Supply Chain Analysis, Manufacturing KPI's
  - Real Estate Market Analytics 
 
